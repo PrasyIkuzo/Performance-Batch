@@ -4,7 +4,7 @@
 <img src="https://github.com/PrasyIkuzo/Performance-Batch/blob/main/images/preview.png">
 </p>
 
-## 🍻 BUY ME A COFFEE
+## 🍻 Buy Me A Coffee
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
