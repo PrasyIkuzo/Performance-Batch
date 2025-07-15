@@ -11,10 +11,10 @@
 [![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
 
 # 📝 ABOUT
-Ancel's Performance Batch is an Open Source Tweaker that was designed to improve computer Performance and Latency. The Tweaker is interactive so it allows the user to optimize their pc however they please. It is important to note that the results may vary depending on the system's configuration.
+> Ancel's Performance Batch is an Open Source Tweaker that was designed to improve computer Performance and Latency. The Tweaker is interactive so it allows the user to optimize their pc however they please. It is important to note that the results may vary depending on the system's configuration.
 
 # ⚠️ DISCLAIMER
-The author of this file cannot be held responsible or liable for any damages that may occur to your computer as a result of running this file. Use at your own risk.
+> The author of this file cannot be held responsible or liable for any damages that may occur to your computer as a result of running this file. Use at your own risk.
 
 # 💻 REQUIREMENTS
 - Windows 10 or 11
@@ -30,7 +30,7 @@ The author of this file cannot be held responsible or liable for any damages tha
 - **Here is a video that shows you how to use this utility : https://youtu.be/YEwchUAryPU?si=tc_yh9p_U6NiJ0Vg**
 
 # 🤝 COMMUNITY
-Feel Free To Join [Ancel's Optimization](https://discord.gg/ZhZ8eJZc42)
+> Feel Free To Join [Ancel's Optimization](https://discord.gg/ZhZ8eJZc42)
 The server was designed for those who are interested in tweaking, or are already tweakers. Here you can learn how to optimize your PC in many ways. Everything in the server is **Free**. Nothing is paid or gatekeeped.
 
 # 📖 LICENSE
