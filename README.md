@@ -49,12 +49,12 @@ The server was designed for those who are interested in tweaking, or are already
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
 <p align="center">
-    <a href="https://discord.gg/swd8nVaS3w" target="_blank"><img
-            src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
-            alt="Discord"></a>
     <a href="https://x.com/prasyikuzo" target="_blank"><img
             src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logoColor=white&logo=X"
             alt="Twitter"></a>
+    <a href="https://discord.gg/swd8nVaS3w" target="_blank"><img
+            src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logoColor=white&logo=discord"
+            alt="Discord"></a>
     <a href="https://tiktok.com/@prasy4ever" target="_blank"><img
             src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="Tiktok"></a>
