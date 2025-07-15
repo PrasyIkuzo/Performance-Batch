@@ -17,9 +17,9 @@
 > The author of this file cannot be held responsible or liable for any damages that may occur to your computer as a result of running this file. Use at your own risk.
 
 # 💻 REQUIREMENTS
-- Windows 10 or 11
-- Internet Connection
-- Administrator Permissions
+- **Windows 10 or 11**
+- **Internet Connection**
+- **Administrator Permissions**
 
 # 🛑 HOW TO USE
 - Go to [Ancels Performance Batch](https://github.com/ancel1x/Ancels-Performance-Batch/releases/tag/Latest)
@@ -34,8 +34,8 @@
 The server was designed for those who are interested in tweaking, or are already tweakers. Here you can learn how to optimize your PC in many ways. Everything in the server is **Free**. Nothing is paid or gatekeeped.
 
 # 📖 LICENSE
-- Ancel's Performance Batch Is Licensed Under The [MIT License](https://opensource.org/licenses/MIT)
-- For More Information Visit [LICENSE](https://github.com/ancel1x/Ancels-Performance-Batch/blob/main/LICENSE)
+- **Ancel's Performance Batch Is Licensed Under The** [MIT License](https://opensource.org/licenses/MIT)
+- **For More Information Visit** [LICENSE](https://github.com/ancel1x/Ancels-Performance-Batch/blob/main/LICENSE)
 
 ## 🌐 MY SOCIAL MEDIA
 <p align=center>
