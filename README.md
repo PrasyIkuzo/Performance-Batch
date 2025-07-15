@@ -1,4 +1,4 @@
-**<h1 align="center">Prasy Ikuzo</h1>**
+**<h1 align="center">Prasy Ikuz</h1>**
 
 <p align="center">
 <img src="https://github.com/PrasyIkuzo/Performance-Batch/blob/main/images/preview.png">
