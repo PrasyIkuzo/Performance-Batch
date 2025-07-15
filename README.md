@@ -1,10 +1,10 @@
-**<h1 align="center">Prasy Ikuz</h1>**
+**<h1 align="center">Prasy Ikuzo</h1>**
 
 <p align="center">
 <img src="https://github.com/PrasyIkuzo/Performance-Batch/blob/main/images/preview.png">
 </p>
 
-## 🍻 Buy Me A Coffee
+## 🍻 **Buy Me A Coffee**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
