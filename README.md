@@ -38,7 +38,7 @@ The server was designed for those who are interested in tweaking, or are already
 - For More Information Visit [LICENSE](https://github.com/ancel1x/Ancels-Performance-Batch/blob/main/LICENSE)
 
 ## 🌐 MY SOCIAL MEDIA
-
+<p align=center>
     <a href="https://instagram.com/prasy_ikuzoreal" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"></a>
