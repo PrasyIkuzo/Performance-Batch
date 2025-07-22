@@ -37,5 +37,6 @@ The server was designed for those who are interested in tweaking, or are already
 - **Ancel's Performance Batch Is Licensed Under The** [MIT License](https://opensource.org/licenses/MIT)
 - **For More Information Visit** [LICENSE](https://github.com/ancel1x/Ancels-Performance-Batch/blob/main/LICENSE)
 
-## 👋 **SE YOU NEXT TIME**
-![PrasyIkuzo](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+<br>
+
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/Performance-Batch/blob/main/images/dino.gif)
